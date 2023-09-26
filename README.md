@@ -19,7 +19,7 @@ MOVIE STAR using OMDB API
 
 ### Links
 
-- Solution URL: [https://github.com/ErysCode7/movie-star](https://github.com/ErysCode7/movie-star)
+- Solution URL: [https://github.com/webstar0411/movie-star](https://github.com/webstar0411/movie-star)
 - Live Site URL: [https://movie-star-tawny.vercel.app/](https://movie-star-tawny.vercel.app/)
 
 1. Clone the repo
@@ -49,10 +49,3 @@ MOVIE STAR using OMDB API
 - Tailwind CSS
 - Axios
 - React Router Dom
-
-## Author
-
-- Facebook - [Erys Mozo](https://web.facebook.com/erys.mozo/)
-- Instagram - [\_erysmozo](https://www.instagram.com/_erysmozo/)
-- Frontend Mentor - [ErysCode7](https://www.frontendmentor.io/profile/ErysCode7)
-- LinkedIn - [Erys Mozo](https://www.linkedin.com/in/erys-mozo-280190230/)
