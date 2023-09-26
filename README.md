@@ -25,7 +25,7 @@ MOVIE STAR using OMDB API
 1. Clone the repo
 
    ```sh
-   git clone git@github.com:ErysCode7/movie-star.git
+   git clone git@github.com:webstar0411/movie-star.git
    ```
 
 2. Install NPM packages
